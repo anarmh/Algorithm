@@ -1,0 +1,7 @@
+ start	
+ input m
+  m single || couple
+	print "single"
+  else
+	print "couple"
+ end
